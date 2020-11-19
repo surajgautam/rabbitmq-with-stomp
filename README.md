@@ -2,4 +2,4 @@
 
 ## Run script to build and push image in dockerhub
 
-sh build-image.sh
+`sh build-image.sh`

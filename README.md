@@ -1,1 +1,1 @@
-# rabbitmq-with-stomp
+# Create rabbitmq docker image with stomp enabled
